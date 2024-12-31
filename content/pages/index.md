@@ -147,7 +147,7 @@ sections:
       text: TEAM SECURE
       color: text-dark
       type: TitleBlock
-    subtitle: Section with a form subtitle
+    subtitle: Get in touch...
     text: "© 2019, All rights reserved to Dr\_Tahseen Arshi (MoC Copyright Number: 3377)\n\n"
     media:
       fields:
