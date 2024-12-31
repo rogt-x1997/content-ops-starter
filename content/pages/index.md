@@ -9,9 +9,10 @@ sections:
       type: TitleBlock
     subtitle: Intelligent Automation
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Starting a successful business is a dream for many entrepreneurs. But the
+      challenges and uncertainties make it hard to predict success. SECURE AI is
+      here to help. It uses advanced artificial intelligence to accurately
+      forecast the chances of a startup's success.
     actions:
       - label: Get started
         altText: ''
