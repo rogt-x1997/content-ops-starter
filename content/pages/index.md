@@ -101,11 +101,23 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: This is a subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: |+
+      ****
+
+      *   Provides data-driven insights for better planning
+
+      *   Acts as a reliable guide through uncertainties
+
+      *   Highlights areas to improve in business models
+
+      *   Helps optimize resources and strategies effectively
+
+      *   Accurately predicts the chances of success
+
+      *   Assists investors in evaluating opportunities
+
+      *   Supports policymakers in creating interventions
+
     badge:
       label: Key Benefits
       color: text-primary
