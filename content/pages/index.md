@@ -16,7 +16,7 @@ sections:
     actions:
       - label: Get started
         altText: ''
-        url: /
+        url: 'https://secure-dev-ed.develop.my.site.com/secure/'
         showIcon: false
         icon: arrowRight
         iconPosition: right
