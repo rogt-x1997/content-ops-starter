@@ -25,7 +25,7 @@ sections:
         type: Button
       - label: Learn more
         altText: ''
-        url: /
+        url: 'https://www.securecanvas.net/secure-ai'
         showIcon: true
         icon: arrowRight
         iconPosition: right
