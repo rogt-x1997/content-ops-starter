@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: SECURE AI -
+      text: SECURE AI
       color: text-dark
       type: TitleBlock
     subtitle: Intelligent Automation
