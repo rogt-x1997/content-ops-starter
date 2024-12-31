@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: SECURE AI
+      label: SECURE 2
       color: text-primary
       type: Badge
     elementId: ''
