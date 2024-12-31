@@ -100,7 +100,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is a subtitle
+    subtitle: Benefits of SECURE AI
     text: |+
       ****
 
