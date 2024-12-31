@@ -14,7 +14,7 @@
     "primaryLinks": [
         {
             "label": "WELCOME",
-            "altText": "Dropdown",
+            "altText": "",
             "links": [],
             "labelStyle": "secondary",
             "type": "SubNav"
