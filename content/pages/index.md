@@ -457,14 +457,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - title:
-      text: List of features here
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: Featured items section subtitle
+  - subtitle: Featured items section subtitle
     items:
       - title: Feature Item One
         tagline: This is the tagline
