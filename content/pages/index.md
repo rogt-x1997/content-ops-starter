@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Enable your team accelerate your path to completion
+      text: "SECURE AI -\_Intelligent Automation"
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
