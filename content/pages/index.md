@@ -144,7 +144,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Generic Section With A Form
+      text: TEAM SECURE
       color: text-dark
       type: TitleBlock
     subtitle: Section with a form subtitle
