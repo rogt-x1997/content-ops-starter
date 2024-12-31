@@ -15,7 +15,7 @@ sections:
       forecast the chances of a startup's success.
     actions:
       - label: Get started
-        altText: ''
+        altText: Secure II
         url: 'https://secure-dev-ed.develop.my.site.com/secure/'
         showIcon: false
         icon: arrowRight
